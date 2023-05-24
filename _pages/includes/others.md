@@ -1,14 +1,11 @@
 
 # 📖 Educations
-- *2020.09 - 2023.03 (now)*, Master, Zhejiang University, Hangzhou.
-- *2016.09 - 2020.06*, Undergraduate, Hainan University, Haikou.
+- *2022.09 - 2023.03 (now)*, Master, National University of Defense and Technology, Changsha, China.
+- *2018.09 - 2022.06*, Undergraduate, Qingdao University of Science and Technology, Qingdao, China.
 
 
 # 💬 Services
-- Journal Reviewer: 
-    - IEEE Transactions on Neural Networks and Learning Systems
-    - Neural Networks
-- Conference Reviewer: ICLR 2022, AAAI 2022, CVPR 2022, ICML 2022, ECCV2022.
+- Conference Reviewer: ACM MM 2024.
 
 
 # 💻 Internships

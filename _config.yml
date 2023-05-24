@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lingyuan Meng (孟令源)"
+title                    : "孟令源"
 description              : "Master student at National University of Defense and Technology. "
 repository               : "LingyuanMeng17/LingyuanMeng17.github.io"
 google_scholar_stats_use_cdn : true

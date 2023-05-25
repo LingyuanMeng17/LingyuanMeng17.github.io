@@ -3,22 +3,22 @@
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2023</div><img src='images/RPC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2023</div><img src='images/RPC.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning](https://liangke23.github.io/) \\
-Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu<sup>#</sup>. (<font color="#660000">ACM SIGIR 2023</font><br />) 
+Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu<sup>#</sup>. (<font color="#660000">ACM SIGIR 2023</font>) 
 
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/SARF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/SARF.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning](https://arxiv.org/pdf/2304.10297.pdf) \\
-<b>Lingyuan Meng<sup>*</sup></b>, Ke Liang<sup>*</sup>, Bin Xiao, Sihang Zhou, Yue Liu, Meng Liu, Xihong Yang, Xinwang Liu<sup>#</sup>. (<font color="#660000">Under Review</font><br />) 
+<b>Lingyuan Meng<sup>*</sup></b>, Ke Liang<sup>*</sup>, Bin Xiao, Sihang Zhou, Yue Liu, Meng Liu, Xihong Yang, Xinwang Liu<sup>#</sup>. (<font color="#660000">Under Review</font>) 
 
 
 
@@ -26,21 +26,21 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AKGR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AKGR.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal](https://arxiv.org/pdf/2212.05767.pdf) \\
   Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun.
-  (<font color="#660000">Under Review</font><br />)
+  (<font color="#660000">Under Review</font>)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MINES.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MINES.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Message Intercommunication for Inductive Relation Reasoning](https://arxiv.org/abs/2305.14074) \\
-Ke Liang<sup>*</sup>, <b>Lingyuan Meng</b><sup>*</sup>, Sihang Zhou, Siwei Wang, Wenxuan Tu, Yue Liu, Meng Liu, Xinwang Liu. (<font color="#660000">Under Review</font><br />) 
+Ke Liang<sup>*</sup>, <b>Lingyuan Meng</b><sup>*</sup>, Sihang Zhou, Siwei Wang, Wenxuan Tu, Yue Liu, Meng Liu, Xinwang Liu. (<font color="#660000">Under Review</font>) 
 
 </div>
 </div> -->

@@ -3,7 +3,7 @@
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2023</div><img src='images/RPC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><font color="#000066">SIGIR 2023</font><br /> </div><img src='images/RPC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning](https://liangke23.github.io/) \\

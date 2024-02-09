@@ -32,20 +32,6 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AKGR.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal](https://arxiv.org/pdf/2212.05767.pdf) \\
-  Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun.
-  (<font color="#660000">Under Review</font>)
-
-</div>
-</div>
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/AKGR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Tmac: Temporal multi-modal graph learning for acoustic event classification](https://arxiv.org/pdf/2309.11845.pdf) \\
@@ -63,6 +49,20 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AKGR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal](https://arxiv.org/pdf/2212.05767.pdf) \\
+  Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun.
+  (<font color="#660000">Under Review</font>)
+
+</div>
+</div>
+
+
+
+
+
 
 -->
 

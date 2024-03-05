@@ -5,17 +5,9 @@
 
 
 # 💬 Services
--PC of ACM Multimedia(MM) 2023.
-
--PC of ICONIP 2023.
-
--PC of ACM Multimedia(MM) 2024.
-
--PC of DASFAA 2024.
+-PC of ACM MM 2023, ICONIP 2023, ACM MM 2024, ICME 2024, DASFAA 2024.
 
 -Reviewer of IEEE Transactions on Cybernetics.
-
-
 
 
 # 🎙 Miscellaneous

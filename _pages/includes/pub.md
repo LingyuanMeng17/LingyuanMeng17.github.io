@@ -41,7 +41,7 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='TKDD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='TKDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mixed graph contrastive network for semi-supervised node classification](https://dl.acm.org/doi/pdf/10.1145/3641549) \\
   Xihong Yang, Yiqi Wang, Yue Liu, Yi Wen, <b>Lingyuan Meng</b>, Sihang Zhou, Xinwang Liu, En Zhu.
@@ -50,7 +50,7 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='survey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal](https://arxiv.org/pdf/2212.05767.pdf) \\
   Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun.
@@ -59,7 +59,7 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='SGMPT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='SGMPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Structure guided multi-modal pre-trained transformer for knowledge graph reasoning](https://arxiv.org/pdf/2307.03591) \\
   Ke Liang, Sihang Zhou, Yue Liu, <b>Lingyuan Meng</b>, Meng Liu, Xinwang Liu.

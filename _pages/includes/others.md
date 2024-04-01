@@ -5,7 +5,12 @@
 
 
 # 💬 Services
--PC of ACM MM 2023, ICONIP 2023, ACM MM 2024, ICME 2024, DASFAA 2024.
+-Program Chair of ACM MM 2023,
+-Program Chair of ICONIP 2023, 
+-Program Chair of ACM MM 2024, 
+-Program Chair of ICME 2024, 
+-Program Chair of DASFAA 2024, 
+-Program Chair of ICIC 2024.
 
 -Reviewer of IEEE Transactions on Cybernetics.
 

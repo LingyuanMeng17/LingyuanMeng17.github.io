@@ -6,7 +6,7 @@
 <div class='paper-box-text' markdown="1">
 
 [SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning](https://arxiv.org/pdf/2304.10297.pdf) \\
-<b>Lingyuan Meng</b>, Ke Lian, Bin Xiao, Sihang Zhou, Yue Liu, Meng Liu, Xihong Yang, Xinwang Liu<sup>#</sup>. (<font color="#660000">TNNLS</font>) 
+<b>Lingyuan Meng</b>, Ke Liang, Bin Xiao, Sihang Zhou, Yue Liu, Meng Liu, Xihong Yang, Xinwang Liu<sup>#</sup>. (<font color="#660000">TNNLS</font>) 
 </div>
 </div>
 
@@ -44,7 +44,7 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='TKDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mixed graph contrastive network for semi-supervised node classification](https://dl.acm.org/doi/pdf/10.1145/3641549) \\
-  Xihong Yang, Yiqi Wang, Yue Liu, Yi Wen, <b>Lingyuan Meng</b>, Sihang Zhou, Xinwang Liu, En Zhu.
+  Xihong Yang, Yiqi Wang, Yue Liu, Yi Wen, <b>Lingyuan Meng</b>, Sihang Zhou, Xinwang Liu*, En Zhu.
   (<font color="#660000">TKDD</font>)
 
 </div>
@@ -53,7 +53,7 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal](https://arxiv.org/pdf/2212.05767.pdf) \\
-  Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun.
+  Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu*, Fuchun Sun.
   (<font color="#660000">Under Review</font>)
 
 </div>
@@ -62,7 +62,7 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='SGMPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Structure guided multi-modal pre-trained transformer for knowledge graph reasoning](https://arxiv.org/pdf/2307.03591) \\
-  Ke Liang, Sihang Zhou, Yue Liu, <b>Lingyuan Meng</b>, Meng Liu, Xinwang Liu.
+  Ke Liang, Sihang Zhou, Yue Liu, <b>Lingyuan Meng</b>, Meng Liu, Xinwang Liu*.
   (<font color="#660000">Under Review</font>)
 
 </div>

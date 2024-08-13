@@ -5,17 +5,23 @@
 
 
 # 💬 Services
--PC Member of ACM MM 2023,
-
--PC Member of ICONIP 2023, 
+-PC Member of NeurIPS 2024,
 
 -PC Member of ACM MM 2024, 
+
+-PC Member of CIKM 2024,
 
 -PC Member of ICME 2024, 
 
 -PC Member of DASFAA 2024, 
 
--PC Member of ICIC 2024.
+-PC Member of ICIC 2024,
+
+-PC Member of ACAIT 2024,
+
+-PC Member of ACM MM 2023,
+
+-PC Member of ICONIP 2023, 
 
 -Reviewer of IEEE Transactions on Cybernetics.
 

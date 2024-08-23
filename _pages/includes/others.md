@@ -5,6 +5,8 @@
 
 
 # 💬 Services
+-PC Member of ICLR 2025,
+
 -PC Member of NeurIPS 2024,
 
 -PC Member of ACM MM 2024, 

@@ -20,7 +20,14 @@ Ke Liang<sup>*</sup>, <b>Lingyuan Meng</b><sup>*</sup>, Sihang Zhou, Siwei Wang,
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal](https://arxiv.org/pdf/2212.05767.pdf) \\
+  Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu*, Fuchun Sun.
+  (<font color="#660000">IEEE TPAMI</font>)
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2023</div><img src='images/RPC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,14 +57,7 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal](https://arxiv.org/pdf/2212.05767.pdf) \\
-  Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu*, Fuchun Sun.
-  (<font color="#660000">Under Review</font>)
 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='SGMPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

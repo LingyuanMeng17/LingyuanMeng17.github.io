@@ -39,6 +39,27 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='SGMPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Simple Yet Effective: Structure Guided Pre-trained Transformer for Multi-modal Knowledge Graph Reasoning](https://openreview.net/pdf?id=oFsIK2JefP) \\
+  Ke Liang, <b>Lingyuan Meng</b>, Yue Liu, Meng Liu, Wei Wei, Siwei Wang, Suyuan Liu, Wenxuan Tu, Xinwang Liu*.
+  (<font color="#660000">ACM MM 2024</font>)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='SGMPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Structure guided multi-modal pre-trained transformer for knowledge graph reasoning](https://arxiv.org/pdf/2307.03591) \\
+  Ke Liang, <b>Lingyuan Meng</b>, Sihang Zhou, Yue Liu, Meng Liu, Xinwang Liu*.
+  (<font color="#660000">IEEE TMM</font>)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/AKGR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Tmac: Temporal multi-modal graph learning for acoustic event classification](https://arxiv.org/pdf/2309.11845.pdf) \\
@@ -48,7 +69,7 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='TKDD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDD</div><img src='TKDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mixed graph contrastive network for semi-supervised node classification](https://dl.acm.org/doi/pdf/10.1145/3641549) \\
   Xihong Yang, Yiqi Wang, Yue Liu, Yi Wen, <b>Lingyuan Meng</b>, Sihang Zhou, Xinwang Liu*, En Zhu.
@@ -59,14 +80,6 @@ Ke Liang, <b>Lingyuan Meng</b>, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihan
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='SGMPT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Structure guided multi-modal pre-trained transformer for knowledge graph reasoning](https://arxiv.org/pdf/2307.03591) \\
-  Ke Liang, Sihang Zhou, Yue Liu, <b>Lingyuan Meng</b>, Meng Liu, Xinwang Liu*.
-  (<font color="#660000">Under Review</font>)
-
-</div>
-</div>
 
 
 

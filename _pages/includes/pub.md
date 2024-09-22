@@ -6,7 +6,7 @@
 <div class='paper-box-text' markdown="1">
 
 [FedEAN: Entity-Aware Adversarial Negative Sampling for Federated Knowledge Graph Reasoning](https://arxiv.org/pdf/2304.10297.pdf) \\
-<b>Lingyuan Meng*</b>, Ke Liang*, Hao Yu, Yue Liu,Sihang Zhou, Meng Liu, Xinwang Liu<sup>#</sup>. (<font color="#660000">IEEE TKDE (<b>CCF A, JCR Q1, IF=8.9</b>)</font>) 
+<b>Lingyuan Meng</b><sup>*</sup>, Ke Liang<sup>*</sup>, Hao Yu, Yue Liu,Sihang Zhou, Meng Liu, Xinwang Liu<sup>#</sup>. (<font color="#660000">IEEE TKDE (<b>CCF A, JCR Q1, IF=8.9</b>)</font>) 
 </div>
 </div>
 

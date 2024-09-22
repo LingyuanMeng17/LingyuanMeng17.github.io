@@ -2,6 +2,14 @@
 # 📝 Publications 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/TKDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FedEAN: Entity-Aware Adversarial Negative Sampling for Federated Knowledge Graph Reasoning](https://arxiv.org/pdf/2304.10297.pdf) \\
+<b>Lingyuan Meng*</b>, Ke Liang*, Hao Yu, Yue Liu,Sihang Zhou, Meng Liu, Xinwang Liu<sup>#</sup>. (<font color="#660000">IEEE TKDE (<b>CCF A, JCR Q1, IF=8.9</b>)</font>) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/SARF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

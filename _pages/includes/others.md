@@ -5,6 +5,10 @@
 
 
 # 💬 Services
+-PC Member of EMNLP 2025,
+
+-PC Member of BigData 2025,
+
 -PC Member of ICLR 2025,
 
 -PC Member of NeurIPS 2024,

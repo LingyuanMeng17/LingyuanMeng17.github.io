@@ -1,5 +1,6 @@
 # 🔥 News
-- *2024.08*: One paper is accepted by IEEE TMM 2024!
+- *2024.09*: One paper is accepted by IEEE TKDE!
+- *2024.08*: One paper is accepted by IEEE TMM!
 - *2024.07*: One paper is accepted by ACM MM 2024!
 - *2024.06*: One paper is accepted by IEEE TPAMI!
 - *2024.01*: One paper is accepted by IEEE TNNLS!

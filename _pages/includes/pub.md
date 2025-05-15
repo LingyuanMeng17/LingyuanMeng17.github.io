@@ -2,6 +2,14 @@
 # 📝 Publications 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/TKDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing](https://arxiv.org/pdf/2304.10297.pdf) \\
+<b>Lingyuan Meng</b>, Ke Liang, Zeyu Zhu, Xinwang Liu<sup>#</sup>. (<font color="#660000">IJCAI 2025 (<b>CCF A</b>)</font>) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/TKDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

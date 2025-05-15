@@ -1,4 +1,6 @@
 # 🔥 News
+- *2025.05*: One paper is accepted by IEEE TIP!
+- *2025.05*: One paper is accepted by IJCAI 2025!
 - *2024.09*: One paper is accepted by IEEE TKDE!
 - *2024.08*: One paper is accepted by IEEE TMM!
 - *2024.07*: One paper is accepted by ACM MM 2024!

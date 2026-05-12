@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Lingyuan Meng** is a PhD student at <i class="fas fa-university"></i> **National University of Defense Technology (NUDT)**, supervised by <a href="https://xinwangliu.github.io/" class="link-accent"> Prof. Xinwang Liu He also earned my M.S. degree in Colledge of Computer and  from <i class="fas fa-university"></i> **NUDT**.  His research interests include graph neural network, AI4Science, and clustering. He has published more than 20 papers including TPAMI, TKDE, and NeuriPS, ICML, CVPR, with 1 ESI Hot Paper, 2 ESI Highly Cited Papers, and 1100 citations. 
+**Lingyuan Meng** is a PhD student at <i class="fas fa-university"> **National University of Defense Technology (NUDT)**</i>, supervised by <a href="https://xinwangliu.github.io/" class="link-accent"> Prof. Xinwang Liu</i>. He also earned my M.S. degree in Colledge of Computer and  from <i class="fas fa-university"> **NUDT**</i>.  His research interests include graph neural networks, AI4Science, and clustering. He has published more than 20 papers including TPAMI, TKDE, and NeuriPS, ICML, CVPR, with 1 ESI Hot Paper, 2 ESI Highly Cited Papers, and 1100 citations. 
 
 <div class="quote-accent">
 My research interests include graph learning, knowledge graphs, and AI4Science, with a particular focus on using **Graph Learning** techniques to solve problems in the fields of medicine and bioinformatics. Feel free to reach out if you'd like to discuss research or explore potential collaboration! (mly_edu@163.com)
@@ -28,11 +28,17 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
 # <i class="fas fa-file-alt"></i> News 
 <div class="quote-accent">
 2026.05, 🎉🎉One paper is accepted by ICML 2026 Spotlight.
+  
 2026.03, 🎉🎉One paper is accepted by TPAMI.
+
 2025.12, 🎉🎉One paper is selected as AAAI 2026.
+
 2025.06, 🎉🎉One paper is accepted by TPAMI.
+
 2025.05, 🎉🎉One paper is selected as IJCAI 2025 Oral.
+
 2024.09, 🎉🎉One paper is selected as IEEE TKDE.
+
 </div>
 
 

@@ -52,7 +52,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/cast/" style="color: inherit; text-decoration: none;">PhenoBrain: Phenotype-Conditioned Long-Range Communication for Multi-Modal Brain Network Analysis</a></h3>
-    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang, Weijia Shi, Meng Liu, Xinwang Liu*</div>
+    <div class="authors"><strong style="color: #8B0000;">Lingyuan Meng</strong>, Ke Liang, Weijia Shi, Meng Liu, Xinwang Liu*</div>
     <div class="venue">The Forty-Third International Conference on Machine Learning (ICML 2026 Soptlight, CCF A)</div>
     <!-- <div class="links">
       <a href="/cast/" class="btn-accent"><i class="fas fa-home"></i> Project</a>
@@ -69,7 +69,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">FedEAN: Entity-aware adversarial negative sampling for federated knowledge graph reasoning</a></h3>
-    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang, Hao Yu, Yue Liu, Sihang Zhou, Meng Liu, Xinwang Liu*</div>
+    <div class="authors"><strong style="color: #8B0000;">Lingyuan Meng</strong>, Ke Liang, Hao Yu, Yue Liu, Sihang Zhou, Meng Liu, Xinwang Liu*</div>
     <div class="venue">IEEE Transactions on Knowledge and Data Engineering 36 (12), 8206-8219 (IEEE TKDE, CCF A)</div>
     <!-- <div class="links">
       <a href="/dsgram/" class="btn-accent"><i class="fas fa-home"></i> Project</a>
@@ -86,7 +86,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">Make Model Transparent: Brain Network Analysis via Causal and Knowledge Graph Learning</a></h3>
-    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang*, Hao Yu, Haotian Wang, Miaomiao Li, Xinwang Liu*</div>
+    <div class="authors"><strong style="color: #8B0000;">Lingyuan Meng</strong>, Ke Liang*, Hao Yu, Haotian Wang, Miaomiao Li, Xinwang Liu*</div>
     <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026, CCF A)</div>
     <!-- <div class="links">
       <a href="/dsgram/" class="btn-accent"><i class="fas fa-home"></i> Project</a>
@@ -103,7 +103,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning</a></h3>
-    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang, Bin Xiao, Sihang Zhou, Yue Liu, Xihong Yang, Xinwang Liu*</div>
+    <div class="authors"><strong style="color: #8B0000;">Lingyuan Meng</strong>, Ke Liang, Bin Xiao, Sihang Zhou, Yue Liu, Xihong Yang, Xinwang Liu*</div>
     <div class="venue">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, SCI Q1 Top)</div>
     <!-- <div class="links">
       <a href="/dsgram/" class="btn-accent"><i class="fas fa-home"></i> Project</a>
@@ -120,7 +120,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing</a></h3>
-    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang, Zeyu Zhu, Xinwang Liu*, Wenpeng Lu</div>
+    <div class="authors"><strong style="color: #8B0000;">Lingyuan Meng</strong>, Ke Liang, Zeyu Zhu, Xinwang Liu*, Wenpeng Lu</div>
     <div class="venue">Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI 2025, CCF A)</div>
     <!-- <div class="links">
       <a href="/dsgram/" class="btn-accent"><i class="fas fa-home"></i> Project</a>

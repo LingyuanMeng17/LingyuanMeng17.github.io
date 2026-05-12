@@ -22,22 +22,22 @@ redirect_from:
 **Lingyuan Meng** is a PhD student at <i class="fas fa-university"></i> **National University of Defense Technology (NUDT)**, supervised by <a href="https://xinwangliu.github.io/" class="link-accent"> Prof. Xinwang Liu</a>. He also earned my M.S. degree in Colledge of Computer and  from <i class="fas fa-university"></i> **NUDT**.  His research interests include graph neural networks, AI4Science, and clustering. He has published more than 20 papers including TPAMI, TKDE, and NeuriPS, ICML, CVPR, with 1 ESI Hot Paper, 2 ESI Highly Cited Papers, and 1100 citations. 
 
 <div class="quote-accent">
-My research interests include graph learning, knowledge graphs, and AI4Science, with a particular focus on using **Graph Learning** techniques to solve problems in the fields of medicine and bioinformatics. Feel free to reach out if you'd like to discuss research or explore potential collaboration! (mly_edu@163.com)
+My research interests include graph learning, knowledge graphs, and AI4Science, with a particular focus on using <strong>Graph Learning</strong> techniques to solve problems in the fields of medicine and bioinformatics. Feel free to reach out if you'd like to discuss research or explore potential collaboration! (mly_edu@163.com)
 </div>
 
 # <i class="fas fa-file-alt"></i> News 
 <div class="quote-accent">
-2026.05, 🎉🎉One paper is accepted by ICML 2026 Spotlight.
+2026.05, 🎉🎉One paper is accepted by ICML 2026 Spotlight.<br>
   
-2026.03, 🎉🎉One paper is accepted by TPAMI.
+2026.03, 🎉🎉One paper is accepted by TPAMI.<br>
 
-2025.12, 🎉🎉One paper is selected as AAAI 2026.
+2025.12, 🎉🎉One paper is selected as AAAI 2026.<br>
 
-2025.06, 🎉🎉One paper is accepted by TPAMI.
+2025.06, 🎉🎉One paper is accepted by TPAMI.<br>
 
-2025.05, 🎉🎉One paper is selected as IJCAI 2025 Oral.
+2025.05, 🎉🎉One paper is selected as IJCAI 2025 Oral.<br>
 
-2024.09, 🎉🎉One paper is selected as IEEE TKDE.
+2024.09, 🎉🎉One paper is selected as IEEE TKDE.<br>
 
 </div>
 
@@ -52,7 +52,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/cast/" style="color: inherit; text-decoration: none;">PhenoBrain: Phenotype-Conditioned Long-Range Communication for Multi-Modal Brain Network Analysis</a></h3>
-    <div class="authors">**Lingyuan Meng**, Ke Liang, Weijia Shi, Meng Liu, Xinwang Liu*</div>
+    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang, Weijia Shi, Meng Liu, Xinwang Liu*</div>
     <div class="venue">The Forty-Third International Conference on Machine Learning (ICML 2026 Soptlight, CCF A)</div>
     <!-- <div class="links">
       <a href="/cast/" class="btn-accent"><i class="fas fa-home"></i> Project</a>
@@ -69,7 +69,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">FedEAN: Entity-aware adversarial negative sampling for federated knowledge graph reasoning</a></h3>
-    <div class="authors">**Lingyuan Meng**, Ke Liang, Hao Yu, Yue Liu, Sihang Zhou, Meng Liu, Xinwang Liu*</div>
+    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang, Hao Yu, Yue Liu, Sihang Zhou, Meng Liu, Xinwang Liu*</div>
     <div class="venue">IEEE Transactions on Knowledge and Data Engineering 36 (12), 8206-8219 (IEEE TKDE, CCF A)</div>
     <!-- <div class="links">
       <a href="/dsgram/" class="btn-accent"><i class="fas fa-home"></i> Project</a>
@@ -86,7 +86,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">Make Model Transparent: Brain Network Analysis via Causal and Knowledge Graph Learning</a></h3>
-    <div class="authors">**Lingyuan Meng**, Ke Liang*, Hao Yu, Haotian Wang, Miaomiao Li, Xinwang Liu*</div>
+    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang*, Hao Yu, Haotian Wang, Miaomiao Li, Xinwang Liu*</div>
     <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026, CCF A)</div>
     <!-- <div class="links">
       <a href="/dsgram/" class="btn-accent"><i class="fas fa-home"></i> Project</a>
@@ -103,7 +103,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning</a></h3>
-    <div class="authors">**Lingyuan Meng**, Ke Liang, Bin Xiao, Sihang Zhou, Yue Liu, Xihong Yang, Xinwang Liu*</div>
+    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang, Bin Xiao, Sihang Zhou, Yue Liu, Xihong Yang, Xinwang Liu*</div>
     <div class="venue">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, SCI Q1 Top)</div>
     <!-- <div class="links">
       <a href="/dsgram/" class="btn-accent"><i class="fas fa-home"></i> Project</a>
@@ -120,7 +120,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing</a></h3>
-    <div class="authors">**Lingyuan Meng**, Ke Liang, Zeyu Zhu, Xinwang Liu*, Wenpeng Lu</div>
+    <div class="authors"><strong style="color: red;">Lingyuan Meng</strong>, Ke Liang, Zeyu Zhu, Xinwang Liu*, Wenpeng Lu</div>
     <div class="venue">Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI 2025, CCF A)</div>
     <!-- <div class="links">
       <a href="/dsgram/" class="btn-accent"><i class="fas fa-home"></i> Project</a>

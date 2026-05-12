@@ -70,7 +70,7 @@ My research interests include graph learning, knowledge graphs, and AI4Science, 
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">FedEAN: Entity-aware adversarial negative sampling for federated knowledge graph reasoning</a></h3>
     <div class="authors"><strong style="color: #8B0000;">Lingyuan Meng</strong>, Ke Liang, Hao Yu, Yue Liu, Sihang Zhou, Meng Liu, Xinwang Liu*</div>
-    <div class="venue">IEEE Transactions on Knowledge and Data Engineering 36 (12), 8206-8219 (IEEE TKDE, CCF A)</div>
+    <div class="venue">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE, <strong style="color: #8B0000;">CCF A</strong>)</div>
     <!-- <div class="links">
       <a href="/dsgram/" class="btn-accent"><i class="fas fa-home"></i> Project</a>
       <a href="https://arxiv.org/abs/2412.12832" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>

@@ -116,7 +116,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">IEEE TNNLS 2023</div>
-    <img src='images/tkde.png' alt="SARF Framework Overview" width="100%">
+    <img src='images/sarf.png' alt="SARF Framework Overview" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning</a></h3>
@@ -133,7 +133,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">IJCAI 2025 Oral</div>
-    <img src='images/tkde.png' alt="FS-KEN Framework Overview" width="100%">
+    <img src='images/ijcai.png' alt="FS-KEN Framework Overview" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="/dsgram/" style="color: inherit; text-decoration: none;">FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing</a></h3>
